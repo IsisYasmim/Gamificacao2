@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Gamificacao2/1.0.0": {
+        "runtime": {
+          "Gamificacao2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gamificacao2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

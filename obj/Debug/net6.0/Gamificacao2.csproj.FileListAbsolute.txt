@@ -1,0 +1,30 @@
+C:\Users\guilh\source\repos\Gamificacao2\Gamificacao2\bin\Debug\net6.0\Gamificacao2.exe
+C:\Users\guilh\source\repos\Gamificacao2\Gamificacao2\bin\Debug\net6.0\Gamificacao2.deps.json
+C:\Users\guilh\source\repos\Gamificacao2\Gamificacao2\bin\Debug\net6.0\Gamificacao2.runtimeconfig.json
+C:\Users\guilh\source\repos\Gamificacao2\Gamificacao2\bin\Debug\net6.0\Gamificacao2.dll
+C:\Users\guilh\source\repos\Gamificacao2\Gamificacao2\bin\Debug\net6.0\Gamificacao2.pdb
+C:\Users\guilh\source\repos\Gamificacao2\Gamificacao2\obj\Debug\net6.0\Gamificacao2.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\Gamificacao2\Gamificacao2\obj\Debug\net6.0\Gamificacao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\Gamificacao2\Gamificacao2\obj\Debug\net6.0\Gamificacao2.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\Gamificacao2\Gamificacao2\obj\Debug\net6.0\Gamificacao2.AssemblyInfo.cs
+C:\Users\guilh\source\repos\Gamificacao2\Gamificacao2\obj\Debug\net6.0\Gamificacao2.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\Gamificacao2\Gamificacao2\obj\Debug\net6.0\Gamificacao2.dll
+C:\Users\guilh\source\repos\Gamificacao2\Gamificacao2\obj\Debug\net6.0\refint\Gamificacao2.dll
+C:\Users\guilh\source\repos\Gamificacao2\Gamificacao2\obj\Debug\net6.0\Gamificacao2.pdb
+C:\Users\guilh\source\repos\Gamificacao2\Gamificacao2\obj\Debug\net6.0\Gamificacao2.genruntimeconfig.cache
+C:\Users\guilh\source\repos\Gamificacao2\Gamificacao2\obj\Debug\net6.0\ref\Gamificacao2.dll
+C:\Users\berna\Desktop\Isis Faculdade\POO\Gamificacao2\Gamificacao2\bin\Debug\net6.0\Gamificacao2.exe
+C:\Users\berna\Desktop\Isis Faculdade\POO\Gamificacao2\Gamificacao2\bin\Debug\net6.0\Gamificacao2.deps.json
+C:\Users\berna\Desktop\Isis Faculdade\POO\Gamificacao2\Gamificacao2\bin\Debug\net6.0\Gamificacao2.runtimeconfig.json
+C:\Users\berna\Desktop\Isis Faculdade\POO\Gamificacao2\Gamificacao2\bin\Debug\net6.0\Gamificacao2.dll
+C:\Users\berna\Desktop\Isis Faculdade\POO\Gamificacao2\Gamificacao2\bin\Debug\net6.0\Gamificacao2.pdb
+C:\Users\berna\Desktop\Isis Faculdade\POO\Gamificacao2\Gamificacao2\obj\Debug\net6.0\Gamificacao2.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\Isis Faculdade\POO\Gamificacao2\Gamificacao2\obj\Debug\net6.0\Gamificacao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Desktop\Isis Faculdade\POO\Gamificacao2\Gamificacao2\obj\Debug\net6.0\Gamificacao2.AssemblyInfoInputs.cache
+C:\Users\berna\Desktop\Isis Faculdade\POO\Gamificacao2\Gamificacao2\obj\Debug\net6.0\Gamificacao2.AssemblyInfo.cs
+C:\Users\berna\Desktop\Isis Faculdade\POO\Gamificacao2\Gamificacao2\obj\Debug\net6.0\Gamificacao2.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\Isis Faculdade\POO\Gamificacao2\Gamificacao2\obj\Debug\net6.0\Gamificacao2.dll
+C:\Users\berna\Desktop\Isis Faculdade\POO\Gamificacao2\Gamificacao2\obj\Debug\net6.0\refint\Gamificacao2.dll
+C:\Users\berna\Desktop\Isis Faculdade\POO\Gamificacao2\Gamificacao2\obj\Debug\net6.0\Gamificacao2.pdb
+C:\Users\berna\Desktop\Isis Faculdade\POO\Gamificacao2\Gamificacao2\obj\Debug\net6.0\Gamificacao2.genruntimeconfig.cache
+C:\Users\berna\Desktop\Isis Faculdade\POO\Gamificacao2\Gamificacao2\obj\Debug\net6.0\ref\Gamificacao2.dll

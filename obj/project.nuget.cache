@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "32eoiUykNrYE3YhR/9QFa5kyq2lP2LLS0fXiVXwlY4mGEM1hLj+ERLD81YmEp4+6t0qTqAWkTeJXgIJh8O/P/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berna\\Desktop\\Isis Faculdade\\POO\\Gamificacao2\\Gamificacao2\\Gamificacao2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berna\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\berna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\berna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\berna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
