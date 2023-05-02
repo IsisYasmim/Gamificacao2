@@ -15,8 +15,8 @@ namespace Gamificacao2
             //produtos disponiveis na loja
             Camiseta camiseta = new Camiseta("Camiseta Polo", 49.99, "M", "Azul");
             Camiseta camiseta2 = new Camiseta("Camiseta de Botão", 59.99, "GG", "Branco");
-            Calca calca = new Calca("Calça Social", 120.89, "M", "Preto");
-            Calca calca2 = new Calca("Calça Jeans", 78.98, "M", "Azul");
+            Calca calca = new Calca("Calça Social", 120.89, "M", "Preto","Pantalona");
+            Calca calca2 = new Calca("Calça Jeans", 78.98, "M", "Azul","Skinny");
             Sapato sapato = new Sapato("Sapato Social", 99.99, "42", "Preto", "Social");
             Sapato sapato2 = new Sapato("Sapato de Salto", 150.99, "35", "Vermelho", "Social");
             Bolsa bolsa = new Bolsa("Bolsa de Couro", 149.99, "Grande", "Marrom", "Couro");
