@@ -36,6 +36,18 @@ COMO UTILIZAR:
   
   "2 - Camiseta de Botão - R$59,99 - GG - Branco"
   
- - A partir das camisetas já pré-definidas dentro do programa, o usuário irá escolher qual ele prefere adicionar ao carrinho escrevendo "1" ou "2" no terminal. Em seguida, o usuário voltará ao menu principal, ao qual pode escolher adicionar quantos produtos quiser ou finalizar a compra. Ao digitar "6" no terminal para finalizar compra, o usuário irá 
+ - A partir das camisetas já pré-definidas dentro do programa, o usuário irá escolher qual ele prefere adicionar ao carrinho escrevendo "1" ou "2" no terminal. Em seguida, o usuário voltará ao menu principal, ao qual pode escolher adicionar quantos produtos quiser e também poderá adicionar descontos. Ao inserir "5", irá surgir o seguinte menu de promoções:
+ 
+  "1 - Adicionar promoção à camiseta"
+  
+  "2 - Adicionar promoção à calça"
+  
+  "3 - Adicionar promoção à bolsa"
+  
+  "4 - Adicionar promoção ao sapato"
+  
+  "0 - Sair"
+  
+  - Cada promoção adiciona um certo valor pré-determinado de desconto. O usário poderá adicionar quantas promoções quiser até inserir "0" no terminal, e então voltará ao menu principal. Ao digitar "6" no terminal para finalizar compra, o usuário irá ver o valor total da compra + descontos e terá de inserir o nome do cliente realizando a compra, o endereço do cliente e o método de pagamento do cliente. Após essas informações serem inseridas, será gerada a nota fiscal do cliente. Para fechar o programa, basta inserir "0".
   
   
