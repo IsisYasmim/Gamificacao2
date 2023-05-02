@@ -36,7 +36,7 @@ namespace Gamificacao2.Enums
         }
     
         public virtual string Descricao(){
-            return GetNome() + " - R$" + GetPreco() +" - "+ _tamanho + " - "+_cor;
+            return GetNome() + " - R$" + GetPreco() +" - "+ _tamanho + " - "+_cor +" - "+ _modelo;
         }
     }
     
